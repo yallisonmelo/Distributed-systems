@@ -1,0 +1,19 @@
+
+zuul:
+  routes:
+    central:
+      path: /product/central/**
+      url: http://localhost:8087/product
+    east:
+      path: /product/east/**
+      url: http://localhost:8088/product
+    west:
+      path: /product/west/**
+      url: http://localhost:8089/product
+
+server:
+  port: 9090
+
+spring:
+  application:
+    name: Api-Gateway

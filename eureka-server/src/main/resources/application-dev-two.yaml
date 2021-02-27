@@ -1,0 +1,18 @@
+server:
+  port: 8762
+
+eureka:
+  client:
+    # Server doesn't required to register it self hence set to false
+    register-with-eureka: false
+    # Server doesn't required to register it self hence set to false
+    fetch-registry: false
+    service-url:
+      #Peer Principal
+      defaultZone: http://localhost:8761/
+  instance:
+    hostname: eureka-peer2
+    appname: Discovery-Server-Second
+spring:
+  application:
+    name: Eureka - Discovery Service - Replica

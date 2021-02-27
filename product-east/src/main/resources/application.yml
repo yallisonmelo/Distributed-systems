@@ -1,0 +1,49 @@
+server:
+  port: 8088
+
+spring:
+  application:
+    name: product-east
+
+#DataSource
+  datasource:
+    hikari:
+      maximum-pool-size: 25
+    url: jdbc:h2:file:./db_dev/eastDB;DB_CLOSE_ON_EXIT=TRUE
+    platform: h2
+    username: dev
+    password: dev
+    driver-class-name: org.h2.Driver
+
+  jpa:
+    database-platform: org.hibernate.dialect.H2Dialect
+    hibernate:
+      ddl-auto: create-drop
+    properties:
+      hibernate:
+        show_sql: true
+        use_sql_comments: false
+        format_sql: false
+        type: trace
+        jdbc:
+          time_zone: UTC-3
+    open-in-view: false
+
+
+  h2:
+    console:
+      enabled: true
+      path: /console
+      settings:
+        trace: false
+        web-allow-others: true
+
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: user
+    password: password
+
+queue:
+  branch-east: product-for-east
+  central: product-for-central

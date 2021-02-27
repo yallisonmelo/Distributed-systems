@@ -1,0 +1,18 @@
+server:
+  port: 8761
+eureka:
+  server:
+    wait-time-in-ms-when-sync-empty: 0
+  client:
+    # Server doesn't required to register it self hence set to false
+    register-with-eureka: false
+    # Server doesn't required to register it self hence set to false
+    fetch-registry: false
+    service-url:
+        defaultZone: http://localhost:8762/
+  instance:
+    hostname: eureka-peer1
+    appname: Discovery-Server-Princpal
+spring:
+  application:
+    name: Eureka - Discovery Service

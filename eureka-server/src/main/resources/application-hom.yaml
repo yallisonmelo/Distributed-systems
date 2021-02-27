@@ -1,0 +1,14 @@
+server:
+  port: 8761 #Define port for Service
+
+eureka:
+  client:
+    #AutoRegister
+    register-with-eureka: false
+    fetch-registry: false
+
+spring:
+  application:
+    name: Eureka - Discovery Service - Homolog
+  main:
+    banner-mode: "off"
