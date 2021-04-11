@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/api-gateway/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/api-gateway/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/eureka-server/.DockerFile">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/eureka-server/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/eureka-server/src/main/resources/application-hom.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/eureka-server/src/main/resources/application.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/ProductCentralApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/configuration/integrationConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/controller/ProductController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/convert/ProductConvert.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/core/category/Category.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/core/category/exception/CategoryAlreadyExistException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/core/category/exception/CategoryNotFound.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/core/category/port/CategoryRepositoryService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/core/category/usecase/implementation/ChangeActiveCategoryUseCaseImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/core/category/usecase/implementation/CreateCategoryUseCaseImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/core/category/usecase/implementation/CreateCategoryUseCaseimpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/core/category/usecase/implementation/DeleteCategoryUseCaseImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/core/category/usecase/implementation/GetAllCategoryActiveUseCaseImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/core/category/usecase/implementation/GetAllCategoryUseCaseImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/core/category/usecase/implementation/GetCategoryByIdUseCaseImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/core/category/usecase/implementation/UpdateCategoryUseCaseImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/core/category/usecase/implementation/VerifyCategoryExistsByIdUseCaseImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/core/category/usecase/interfaces/ChangeActiveCategoryUseCase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/core/category/usecase/interfaces/CreateCategoryUseCase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/core/category/usecase/interfaces/DeleteCategoryUseCase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/core/category/usecase/interfaces/GetAllCategoryActiveUseCase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/core/category/usecase/interfaces/GetAllCategoryUseCase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/core/category/usecase/interfaces/GetCategoryByIdUseCase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/core/category/usecase/interfaces/UpdateCategoryUseCase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/core/category/usecase/interfaces/VerifyCategoryExistsByIdUseCase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/core/product/Product.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/core/product/exception/ProductAlreadyExistException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/core/product/exception/ProductNotFound.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/core/product/exception/ProductNotSavedException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/core/product/port/ProductRepositoryService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/core/product/usecase/CreateProductUseCase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/core/product/usecase/implementation/CreateProductUseCaseImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/core/product/usecase/implementation/CreateProductUseCaseImplementation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/core/product/usecase/implementation/DeleteProductUseCaseImplementation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/core/product/usecase/implementation/GetAllProductsUseCaseImplementation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/core/product/usecase/implementation/GetProductByIdUseCaseImplementation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/core/product/usecase/implementation/UpdateProductUseCaseImplementation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/core/product/usecase/interfaces/CreateProductUseCase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/core/product/usecase/interfaces/DeleteProductUseCase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/core/product/usecase/interfaces/GetAllProductsUseCase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/core/product/usecase/interfaces/GetProductByIdUseCase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/core/product/usecase/interfaces/UpdateProductUseCase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/dto/ProductDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/infrastructure/configuration/IntegrationConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/infrastructure/configuration/ProductCentralHandlerExceptionAdvice.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/infrastructure/configuration/RabbitIntegration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/infrastructure/configuration/integrationConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/infrastructure/converters/CategoryConverter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/infrastructure/converters/ProductConvert.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/infrastructure/delivery/CategoryController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/infrastructure/delivery/ProductController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/infrastructure/delivery/converters/CategoryConvertDelivery.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/infrastructure/delivery/converters/ProductConvert.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/infrastructure/delivery/converters/ProductConvertDelivery.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/infrastructure/delivery/converts/ProductConvert.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/infrastructure/delivery/entrypoint/ControllerDefaault.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/infrastructure/delivery/entrypoint/ControllerDefault.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/infrastructure/delivery/entrypoint/implementation/CategoryControllerImplementation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/infrastructure/delivery/entrypoint/implementation/ProductControllerImplementation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/infrastructure/delivery/entrypoint/intefaces/CategoryController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/infrastructure/delivery/entrypoint/intefaces/ControllerDefault.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/infrastructure/delivery/entrypoint/intefaces/ProductController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/infrastructure/delivery/entrypoint/intefaces/implementation/CategoryControllerImplementation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/infrastructure/delivery/implementation/ProductControllerImplementation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/infrastructure/delivery/rest/ProductIntRest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/infrastructure/delivery/rest/ProductOutRest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/infrastructure/delivery/rest/exception/ErroObjectReturn.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/infrastructure/delivery/rest/in/CategoryInRest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/infrastructure/delivery/rest/in/CategoryRestIn.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/infrastructure/delivery/rest/in/ProductInRest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/infrastructure/delivery/rest/in/ProductIntRest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/infrastructure/delivery/rest/out/CategoryOutRest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/infrastructure/delivery/rest/out/CategoryRestOut.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/infrastructure/delivery/rest/out/ProductOutRest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/infrastructure/implementations/CategoryRepositoryServiceImplementation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/infrastructure/implementations/ProductRepositoryServiceImplementation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/infrastructure/persistence/ProductEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/infrastructure/persistence/entities/CategoryEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/infrastructure/persistence/entities/ProductEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/infrastructure/persistence/repositories/CategoryRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/infrastructure/persistence/repositories/ProductRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/infrastructure/shared/constants/CommonConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/integration/RabbitIntegration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/java/br/com/yfsmsystem/distributedsystems/productcentral/service/ProductService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/test/java/br/com/yfsmsystem/distributedsystems/productcentral/controller/ProductControllerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/test/java/br/com/yfsmsystem/distributedsystems/productcentral/core/category/usecase/implementation/CreateCategoryUseCaseImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/test/java/br/com/yfsmsystem/distributedsystems/productcentral/core/category/usecase/implementation/CreateCategoryUseCaseimplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/test/java/br/com/yfsmsystem/distributedsystems/productcentral/core/category/usecase/implementation/DeleteCategoryUseCaseImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/test/java/br/com/yfsmsystem/distributedsystems/productcentral/core/category/usecase/implementation/GetAllCategoryActiveUseCaseImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/test/java/br/com/yfsmsystem/distributedsystems/productcentral/core/category/usecase/implementation/GetAllCategoryUseCaseImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/test/java/br/com/yfsmsystem/distributedsystems/productcentral/core/category/usecase/implementation/GetCategoryByIdUseCaseImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/test/java/br/com/yfsmsystem/distributedsystems/productcentral/core/category/usecase/implementation/UpdateCategoryUseCaseImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/test/java/br/com/yfsmsystem/distributedsystems/productcentral/core/category/usecase/implementation/VerifyCategoryExistsByIdUseCaseImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/test/java/br/com/yfsmsystem/distributedsystems/productcentral/core/product/usecase/implementation/CreateProductUseCaseImplementationTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/test/java/br/com/yfsmsystem/distributedsystems/productcentral/core/product/usecase/implementation/DeleteProductUseCaseImplementationTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/test/java/br/com/yfsmsystem/distributedsystems/productcentral/core/product/usecase/implementation/GetAllProductsUseCaseImplementationTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/test/java/br/com/yfsmsystem/distributedsystems/productcentral/core/product/usecase/implementation/GetProductByIdUseCaseImplementationTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/test/java/br/com/yfsmsystem/distributedsystems/productcentral/core/product/usecase/implementation/UpdateProductUseCaseImplementationTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/test/java/br/com/yfsmsystem/distributedsystems/productcentral/exception/advice/ProductCentralHandlerExceptionAdviceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/test/java/br/com/yfsmsystem/distributedsystems/productcentral/infrastructure/converters/CategoryConverterTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/test/java/br/com/yfsmsystem/distributedsystems/productcentral/infrastructure/converters/ProductConvertTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/test/java/br/com/yfsmsystem/distributedsystems/productcentral/infrastructure/delivery/converters/CategoryConvertDeliveryTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/test/java/br/com/yfsmsystem/distributedsystems/productcentral/infrastructure/delivery/converters/ProductConvertDeliveryTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/test/java/br/com/yfsmsystem/distributedsystems/productcentral/infrastructure/implementations/CategoryRepositoryServiceImplementationTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/test/java/br/com/yfsmsystem/distributedsystems/productcentral/infrastructure/implementations/ProductRepositoryServiceImplementationTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/test/java/br/com/yfsmsystem/distributedsystems/productcentral/infrastructure/shared/constants/CommonConstantsTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/test/java/br/com/yfsmsystem/distributedsystems/productcentral/integration/RabbitIntegrationTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-east/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-east/src/main/java/br/com/yfsmsystem/distributedsystems/producteast/dto/ProductDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-east/src/main/java/br/com/yfsmsystem/distributedsystems/producteast/integration/CentralIntegration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Kubernetes/java-kubernetes/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

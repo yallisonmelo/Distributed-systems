@@ -3,13 +3,16 @@ zuul:
   routes:
     central:
       path: /product/central/**
-      url: http://localhost:8087/product
+      url: http://localhost:8087/product/
+    central_category:
+      path: /category/central/**
+      url: http://localhost:8087/category/
     east:
       path: /product/east/**
-      url: http://localhost:8088/product
+      url: http://localhost:8088/product/
     west:
       path: /product/west/**
-      url: http://localhost:8089/product
+      url: http://localhost:8089/product/
 
 server:
   port: 9090
@@ -17,3 +20,7 @@ server:
 spring:
   application:
     name: Api-Gateway
+
+    server:
+      tomcat:
+        connection-timeout: 3000
