@@ -23,6 +23,36 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/config-server/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/config-server/src/main/java/br/com/yfsmsystem/configserver/ConfigServerApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/config-server/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/config-server/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/config-server/src/main/resources/bootstrap.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/demo/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/eureka-server/.DockerFile">
           <value>
             <set />
@@ -473,6 +503,21 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/resources/bootstrap.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/product-central/src/main/resources/bootstrap.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/product-central/src/test/java/br/com/yfsmsystem/distributedsystems/productcentral/controller/ProductControllerTest.java">
           <value>
             <set />
@@ -599,6 +644,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/product-east/src/main/java/br/com/yfsmsystem/distributedsystems/producteast/integration/CentralIntegration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-first/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-first/src/main/resources/api.yaml">
           <value>
             <set />
           </value>
